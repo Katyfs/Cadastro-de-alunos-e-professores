@@ -2,11 +2,37 @@
   "alunos": [
     {
       "id": 1,
-      "nome": "Maria Silva",
-      "email": "maria@email.com",
+      "nome": "Katielly Fontes",
+      "email": "katielly.f@email.com",
       "cpf": "123.456.789-00",
       "data_nascimento": "2007-05-14",
-      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+      "endereco": "Zona rural - Lagoa de Pedra, 123 - Riacho de Santana/RN"
+    },
+    {
+      "nome": "Helloísa Leite",
+      "email": "Helloisa@escolar.com",
+      "cpf": "234.567.345-88",
+      "data_nascimento": "2009-05-01",
+      "endereco": "Alexandria/RN",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Jefferson Queiroga",
+      "email": "jefferson@escolar.com",
+      "cpf": "987.654.321-00",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2022-03-01"
+    },
+    {
+      "nome": "Luis",
+      "email": "luis@escolar.com",
+      "cpf": "456.678.890-99",
+      "disciplina": "Eletricidade",
+      "data_admissao": "2004-03-01",
+      "id": 2
     }
   ]
 }
